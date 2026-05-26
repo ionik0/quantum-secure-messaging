@@ -76,11 +76,10 @@ How to Run
 
 Run experiments individually:
 
-python src/bell_state.py
-python src/teleportation_baseline.py
-python src/noisy_model.py
-python src/attack_hadamard.py
-python src/attack_entanglement.py
+python backend/teleportation_baseline.py
+python backend/noisy_model.py
+python backend/attack_hadamard.py
+python backend/attack_entanglement.py
 
 Results
 
