@@ -60,10 +60,7 @@ The project is structured into the following experiments:
 
 ---
 
-## Installation
-git clone https://github.com/your-username/quantum-secure-messaging.git
-cd quantum-secure-messaging
-pip install -r requirements.txt
+
 
 # Requirements
 qiskit
@@ -71,7 +68,7 @@ qiskit-aer
 numpy
 matplotlib
 
-# Install manually if needed:
+# Install :
 
 pip install qiskit qiskit-aer numpy matplotlib
 
